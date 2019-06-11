@@ -1,0 +1,29 @@
+/* le style ICI */
+
+#formUpload {
+    width: 33vw;
+    margin-left: 2vw;
+    margin-top: 8vh;
+}
+
+#historic {
+    margin-left: 2vw;
+    margin-top: 8vh;
+    width: 33vw;
+    height: 33vh;
+}
+
+#theLink {
+    margin-left: 2vw;
+    margin-top: 8vh;
+    width: 33vw;
+}
+
+#publicite {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 30vw;
+    height: 100vh;
+    background-color: cadetblue;
+}
